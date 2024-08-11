@@ -413,6 +413,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 * [Awesome JSON Schema](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
+* [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for JSON Schema
 
 ## JSON Schema Validators
 **Javascript and Node.js**
